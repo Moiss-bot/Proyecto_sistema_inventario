@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gateway_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-accesorios/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-accesorios/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-clientes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-clientes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-herramientas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-herramientas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-melamine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-melamine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-ordenes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-ordenes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-proveedores/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-proveedores/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-proyectos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-proyectos/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
